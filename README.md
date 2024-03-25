@@ -35,4 +35,4 @@ We discussed a number of books and other useful resources. Here are the details.
 
 ## Contact the host
 
-Find Dan Howarth – lead content designer at DBT – on [LinkedIn](https://www.linkedin.com/in/danhowarth/), [Twitter](https://twitter.com/danhowarth) or on the <a href="https://ukgovernmentdigital.slack.com/">UK cross-government Slack</a>.
+Find on [LinkedIn](https://www.linkedin.com/in/danhowarth/), [Twitter](https://twitter.com/danhowarth) or on the <a href="https://ukgovernmentdigital.slack.com/">UK cross-government Slack</a>.
