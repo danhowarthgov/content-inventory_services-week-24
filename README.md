@@ -1,5 +1,5 @@
 # Content inventory and rolling audits – Services Week 2024
-Resources from the <a href="https://www.eventbrite.com/e/content-inventory-and-rolling-audits-services-week-2024-tickets-858213779517">content inventory and rolling audits session at Services Week 2024</a>, delivered by Dan Howarth, lead content designer at Department for Business and Trade (DBT). Including slides, links and contact details.
+Resources from the content inventory and rolling audits session at Services Week 2024, delivered by Dan Howarth, lead content designer at Department for Business and Trade (DBT). Includes slides, links and contact details.
 
 ## About the session
 
