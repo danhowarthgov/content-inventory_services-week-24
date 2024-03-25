@@ -13,7 +13,7 @@ There's a [recording of the session on YouTube](https://youtu.be/vIciC0YoFBA).
 
 ## Slides from Dan's talk
 
-You can [download the slides from this repository (PPTX format, 10mb file size)](https://github.com/danhowarthgov/content-inventory_services-week-24/blob/main/content-inventory-slides_services-week-24_dan-howarth.pptx). You can share and reuse them, under the terms of the ‘Attribution-ShareAlike 4.0 International’ licence, available from the [Creative Commons website](https://creativecommons.org/licenses/by-sa/4.0/).
+You can [download the slides from this repository (PPTX format, 10mb file size – select 'download raw file' icon in the toolbar)](https://github.com/danhowarthgov/content-inventory_services-week-24/blob/main/content-inventory-slides_services-week-24_dan-howarth.pptx). You can share and reuse them, under the terms of the ‘Attribution-ShareAlike 4.0 International’ licence, available from the [Creative Commons website](https://creativecommons.org/licenses/by-sa/4.0/).
 Note that this licence does not cover content from cited sources, which remains subject to each author’s own copyright. References are listed in the notes for each slide.
 
 ## Code snippets
