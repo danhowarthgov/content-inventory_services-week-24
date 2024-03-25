@@ -7,6 +7,10 @@ A behind-the-scenes look at how DBT is managing their content estate, with a new
 
 DBT has 12,000+ content items across various public-facing channels, including GOV.UK, Great.gov.uk and services. They're pulling them together into a content inventory, so they have a single-source-of-truth for information about their content, from which they can do rolling content audits as-needed.
 
+## Recording
+
+There's a [recording of the session on YouTube](https://youtu.be/vIciC0YoFBA).
+
 ## Slides from Dan's talk
 
 You can download the slides from this repository. You can share and reuse them, under the terms of the ‘Attribution-ShareAlike 4.0 International’ licence, available from the [Creative Commons website](https://creativecommons.org/licenses/by-sa/4.0/).
